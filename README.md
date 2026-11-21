@@ -1,33 +1,10 @@
-🤖 Enterprise AI Agent Platform
-A production-ready AI platform integrating Multi-Agent Workflows, Retrieval-Augmented Generation (RAG), FAISS vector search, Ollama local LLMs, FastAPI APIs, Docker deployment and Streamlit interfaces.
+branch 'main' set up to track 'origin/main'.
+(.venv) PS C:\Users\hp\Desktop\CV_PFE_M_AI&I3D\Enterprise AI Agent Platform> git add README.md
+>> git commit -m "Improve README for recruiters"
+>> git push
+On branch main
+Your branch is up to date with 'origin/main'.
 
-🚀 Features
-Multi-Agent Architecture with LangGraph
-Retrieval-Augmented Generation (RAG)
-Multi-PDF Knowledge Base
-FAISS Vector Search
-Ollama + Qwen 2.5
-Source Citations
-Chat History
-Streamlit Interface
-FastAPI Backend
-Docker Deployment
-🛠️ Tech Stack
-Python
-Streamlit
-FastAPI
-LangGraph
-LangChain
-Ollama
-Qwen 2.5
-FAISS
-Docker
-▶️ Run
-streamlit run ui/dashboard.py
-🌐 API
-uvicorn app.api:app --reload
-🐳 Docker
-docker build -t enterprise-ai-agent-platform .
-docker run -p 8501:8501 enterprise-ai-agent-platform
-👨‍💻 Author
-Marouf Abdelati
+nothing to commit, working tree clean
+Everything up-to-date
+(.venv) PS C:\Users\hp\Desktop\CV_PFE_M_AI&I3D\Enterprise AI Agent Platform> 
